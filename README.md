@@ -1,2 +1,2 @@
-# exerciocios.js
+# exercicios.js
 atividade app
